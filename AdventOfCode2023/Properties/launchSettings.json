@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdventOfCode2023": {
+      "commandName": "Project",
+      "workingDirectory": "c:\\saturnine\\AdventOfCode2023"
+    }
+  }
+}
