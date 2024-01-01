@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Don't put the real Advent of Code input files in the repo
+input*.txt
+
 # User-specific files
 *.rsuser
 *.suo
